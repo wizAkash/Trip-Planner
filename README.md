@@ -62,10 +62,10 @@ npm run dev
 
 ### Features
 
-Submit a new trip plan
-Edit an existing trip
-Dashboard with responsive grid layout
-Reusable TripForm and TripCard components
-Filters: search by destination & filter by budget
-Validation on both frontend (Yup) & backend (Fastify schema)
-Nice UI with Material UI + Toast notifications
+- Submit a new trip plan
+- Edit an existing trip
+- Dashboard with responsive grid layout
+- Reusable TripForm and TripCard components
+- Filters: search by destination & filter by budget
+- Validation on both frontend (Yup) & backend (Fastify schema)
+- Nice UI with Material UI + Toast notifications
